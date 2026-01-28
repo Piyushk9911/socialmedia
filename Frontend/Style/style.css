@@ -32,7 +32,7 @@ html {
 }
 
 html.light {
-    background:#5B6CFF ;
+    background:#4f60fc ;
         /* radial-gradient(1400px circle at top left,
             rgba(88, 101, 242, 0.25),
             transparent 70%),
@@ -52,9 +52,6 @@ html.light {
 body {
     background: transparent;
 }
-
-
-
 
 main {
     width: 100%;
